@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hammad Bakers \u0026 Hospitality Towers - Mirpur AJK",
+  "description": "Luxury commercial hospitality destination in Mirpur Azad Kashmir featuring Fine Dining Restaurant, Hotel Rooms, Serviced Apartments, Rooftop Swimming Pool, and Premium Artisan Bakery \u0026 Sweets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
